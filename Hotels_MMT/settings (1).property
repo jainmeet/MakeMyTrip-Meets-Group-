@@ -1,0 +1,23 @@
+url=https://www.makemytrip.com/
+login_field=/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[3]/div[1]/div[2]
+UserName=username
+Cont_button=/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[2]/section[1]/form[1]/div[2]/button[1]/span[1]
+Password=password
+login_button=/html/body/div[1]/div/div[1]/div[1]/div[2]/div[2]/section/form/div[2]/button
+popup=/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[3]/div[2]
+hotel=/html[1]/body[1]/div[1]/div[1]/div[1]/div[1]/div[2]/div[1]/div[1]/nav[1]/ul[1]/li[2]/a[1]/span[1]
+clickcity=/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/label[1]
+entercity=//input[@placeholder='Enter city/ Hotel/ Area/ Building']
+ok=/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/div[1]/ul[1]/li[1]/div[1]/div[1]/div[1]
+checkin=checkin
+checkindate=div[aria-label='Mon Aug 23 2021']
+checkout=div[aria-label='Thu Sep 02 2021']
+guest=guest
+room=/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[1]/div[2]/div[1]/div[1]/div[4]/div[1]/div[2]/button[2]
+search=hsw_search_button
+hotels=/html[1]/body[1]/div[1]/div[1]/div[2]/div[1]/div[3]/div[2]/div[1]/div[1]/div[3]/a[1]/div[1]/div[1]/div[1]
+booking=//a[normalize-space()='BOOK THIS NOW']
+booknow=//a[contains(text(),'Book @ ₹ 0')]
+paynow=//a[normalize-space()='Pay Now']
+
+
